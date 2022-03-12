@@ -12,4 +12,4 @@ An End-to-End application, managed from development through to live deployment.
  Sign up to our newsletter! (if you want) || https://serene-ridge-36936.herokuapp.com/ 
 
 
-<img width="200" alt="webdev" src="https://user-images.githubusercontent.com/101202952/158024707-16302606-e986-42e7-8739-23fe82379bef.PNG">
+<img width="100" alt="webdev" src="https://user-images.githubusercontent.com/101202952/158024707-16302606-e986-42e7-8739-23fe82379bef.PNG">
